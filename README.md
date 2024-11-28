@@ -1,11 +1,11 @@
-# Purgatorium - Safety EDITION by Belka
+# ⚠ Purgatorium - Safety EDITION by Belka
 
-If you want test ```Dangerous`` Edition you can download here: github.com/ArTicZera/GDI-Worm.Win32.Purgatorium
+❗ If you want test ```Dangerous``` Edition you can download here: github.com/ArTicZera/GDI-Worm.Win32.Purgatorium ❗
 
-In this repository ```Purgatorium``` i'm make it safety:
+In this repository ```Purgatorium``` i'm make it safety ✔:
 
 * For first i removed spread email
 * I removed blocking Taskmng
 * And finally i removed MBR overwrite disk & Infecting System
 
-## Enjoy with safety edition.
+## ♻ Enjoy with safety edition.
