@@ -1,6 +1,6 @@
 # Purgatorium - Safety EDITION by Belka
 
-In this repository ```Purgatorium``` i'm make it safety.
+In this repository ```Purgatorium``` i'm make it safety:
 
 * For first i removed spread email
 * I removed blocking Taskmng
