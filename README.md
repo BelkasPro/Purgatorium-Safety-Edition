@@ -1,9 +1,9 @@
 # Purgatorium - Safety EDITION by Belka
 
-In this repository with ```Purgatorium``` i make it safety,
+In this repository ```Purgatorium``` i'm make it safety.
 
 * For first i removed spread email
 * I removed blocking Taskmng
-* And finally i removed MBR overwrite disk with Infecting System
+* And finally i removed MBR overwrite disk & Infecting System
 
 ## Enjoy with safety edition.
