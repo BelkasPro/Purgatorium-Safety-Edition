@@ -12,3 +12,5 @@ In this repository ***```Purgatorium```*** i'm make it safety ✔:
 If you can't launch you need install ```vc_redist 2015```.
 
 ## ♻ Enjoy with ***```safety```*** edition.
+
+Showcase ***```safety```*** purgatorium see here: https://www.youtube.com/watch?v=MHmaIwKPzws
